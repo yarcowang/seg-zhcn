@@ -1,0 +1,28 @@
+{
+  "name": "seg-zhcn",
+  "version": "0.0.1",
+  "description": "a simplified Chinese segmentation method",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+	"dependencies": {
+		"debug": "*",
+		"underscore": "*"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yarcowang/seg-zhcn.git"
+  },
+  "keywords": [
+    "Chinese",
+    "segment"
+  ],
+  "author": "Yarco <yarco.wang@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
