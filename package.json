@@ -1,15 +1,11 @@
 {
   "name": "seg-zhcn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simplified Chinese segmentation method",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-	"dependencies": {
-		"debug": "*",
-		"underscore": "*"
-	},
 	"devDependencies": {
 		"mocha": "*",
 		"should": "*"
